@@ -1,1 +1,1 @@
-ce projet est réalisé dans le cadre de l'épreuve de versioning Git/GitHub.
+ce projet est réalisé dans le cadre de l'épreuve de versioning Git/GitHub
